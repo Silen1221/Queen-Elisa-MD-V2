@@ -18,14 +18,14 @@
 },
 
 "OWNER_NUMBER" :{
-  "description" : "OWNER NUMBER",
-  "required" : false,
-  "value" :"94715166712"
+  "description" : "0772173031",
+  "required" : true,
+  "value" :"94772173031"
   },
 
  "ALIVE_MESSAGE" :{
   "description" : "TYPE YOUR ALIVE MASSAGE",
-  "required" : false,
+  "required" : true,
 "value" : "default"
   },
 
@@ -37,7 +37,7 @@
   
   "SEND_WELCOME_MASSAGE" :{
   "description" : "SEND WELCOME & GOODBYE MASSAGES [ true / false]",
-  "required" : true,
+  "required" : false,
     "value" : "false"
   },
 
@@ -49,8 +49,8 @@
 
   "ANTI_LINK" :{
   "description" : "REMOVE GROUP LINK SEND MEMBERS [ true / false ]",
-  "requred" : false,
-  "value" : "false"
+  "requred" : true,
+  "value" : "true"
   },
 
   "BOT_NAME" :{
@@ -60,9 +60,9 @@
   },
 
   "OWNER_NAME" :{
-  "description" : "YOUR NAME",
+  "description" : "ya👹️ka",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"Ya👹️kq"
   },
 
   "STICKER_PACK_NAME" :{
@@ -139,8 +139,8 @@
 
   "AUTO_REACT" :{
   "description" : "AUTO REACT SEND [ true / false ]",
-  "requred" : true,
-  "value" :"true"
+  "requred" : false,
+  "value" :"false"
   },
 
 "ANTI_BADWORD" :{
